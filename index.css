@@ -1,0 +1,39 @@
+/**
+ * NOTE: BaseArea styles
+ */
+
+.lj0kh_09jPZXVZf7Z58f2 {
+  border: 1px solid black;
+  padding: 4px 8px;
+}
+
+.lj0kh_09jPZXVZf7Z58f2 .p {
+  margin: 0;
+}
+
+/**
+ * NOTE: RedArea styles
+ */
+
+._3fvh6G_91gDVbv0X0dKJvD {
+  border-color: red;
+  border-radius: 10px 0;
+}
+
+._3fvh6G_91gDVbv0X0dKJvD .p {
+  color: red;
+}
+
+/**
+ * NOTE: BlueArea styles
+ */
+
+._9IvHaY2olJvTHI42EN4rC {
+  border-color: blue;
+  border-radius: 0 10px;
+}
+
+._9IvHaY2olJvTHI42EN4rC .p {
+  color: blue;
+}
+

@@ -1,0 +1,38 @@
+/**
+ * NOTE: BaseArea styles
+ */
+
+.area {
+  border: 1px solid black;
+  padding: 4px 8px;
+}
+
+.area :global .p {
+  margin: 0;
+}
+
+/**
+ * NOTE: RedArea styles
+ */
+
+.red {
+  border-color: red;
+  border-radius: 10px 0;
+}
+
+.red :global .p {
+  color: red;
+}
+
+/**
+ * NOTE: BlueArea styles
+ */
+
+.blue {
+  border-color: blue;
+  border-radius: 0 10px;
+}
+
+.blue :global .p {
+  color: blue;
+}
